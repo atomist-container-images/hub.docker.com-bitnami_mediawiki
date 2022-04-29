@@ -1,12 +1,84 @@
-# Tags: latest, 1.37.2-debian-10-r4, 1.37.2, 1-debian-10, 1
+# Tags: latest, 1.37.2-debian-10-r28, 1.37.2, 1-debian-10, 1
 FROM bitnami/mediawiki:latest
-FROM bitnami/mediawiki:1.37.2-debian-10-r4
+FROM bitnami/mediawiki:1.37.2-debian-10-r28
 FROM bitnami/mediawiki:1.37.2
 FROM bitnami/mediawiki:1-debian-10
 FROM bitnami/mediawiki:1
 
 # Tags: _
 FROM bitnami/mediawiki:_
+
+# Tags: 1.37.2-debian-10-r27
+FROM bitnami/mediawiki:1.37.2-debian-10-r27
+
+# Tags: 1.37.2-debian-10-r26
+FROM bitnami/mediawiki:1.37.2-debian-10-r26
+
+# Tags: 1.37.2-debian-10-r25
+FROM bitnami/mediawiki:1.37.2-debian-10-r25
+
+# Tags: 1.37.2-debian-10-r24
+FROM bitnami/mediawiki:1.37.2-debian-10-r24
+
+# Tags: 1.37.2-debian-10-r23
+FROM bitnami/mediawiki:1.37.2-debian-10-r23
+
+# Tags: 1.37.2-debian-10-r22
+FROM bitnami/mediawiki:1.37.2-debian-10-r22
+
+# Tags: 1.37.2-debian-10-r21
+FROM bitnami/mediawiki:1.37.2-debian-10-r21
+
+# Tags: 1.37.2-debian-10-r20
+FROM bitnami/mediawiki:1.37.2-debian-10-r20
+
+# Tags: 1.37.2-debian-10-r19
+FROM bitnami/mediawiki:1.37.2-debian-10-r19
+
+# Tags: 1.37.2-debian-10-r18
+FROM bitnami/mediawiki:1.37.2-debian-10-r18
+
+# Tags: 1.37.2-debian-10-r17
+FROM bitnami/mediawiki:1.37.2-debian-10-r17
+
+# Tags: 1.37.2-debian-10-r16
+FROM bitnami/mediawiki:1.37.2-debian-10-r16
+
+# Tags: 1.37.2-debian-10-r15
+FROM bitnami/mediawiki:1.37.2-debian-10-r15
+
+# Tags: 1.37.2-debian-10-r14
+FROM bitnami/mediawiki:1.37.2-debian-10-r14
+
+# Tags: 1.37.2-debian-10-r13
+FROM bitnami/mediawiki:1.37.2-debian-10-r13
+
+# Tags: 1.37.2-debian-10-r12
+FROM bitnami/mediawiki:1.37.2-debian-10-r12
+
+# Tags: 1.37.2-debian-10-r11
+FROM bitnami/mediawiki:1.37.2-debian-10-r11
+
+# Tags: 1.37.2-debian-10-r10
+FROM bitnami/mediawiki:1.37.2-debian-10-r10
+
+# Tags: 1.37.2-debian-10-r9
+FROM bitnami/mediawiki:1.37.2-debian-10-r9
+
+# Tags: 1.37.2-debian-10-r8
+FROM bitnami/mediawiki:1.37.2-debian-10-r8
+
+# Tags: 1.37.2-debian-10-r7
+FROM bitnami/mediawiki:1.37.2-debian-10-r7
+
+# Tags: 1.37.2-debian-10-r6
+FROM bitnami/mediawiki:1.37.2-debian-10-r6
+
+# Tags: 1.37.2-debian-10-r5
+FROM bitnami/mediawiki:1.37.2-debian-10-r5
+
+# Tags: 1.37.2-debian-10-r4
+FROM bitnami/mediawiki:1.37.2-debian-10-r4
 
 # Tags: 1.37.2-debian-10-r3
 FROM bitnami/mediawiki:1.37.2-debian-10-r3
@@ -26,72 +98,3 @@ FROM bitnami/mediawiki:1.37.1
 
 # Tags: 1.37.1-debian-10-r99
 FROM bitnami/mediawiki:1.37.1-debian-10-r99
-
-# Tags: 1.37.1-debian-10-r98
-FROM bitnami/mediawiki:1.37.1-debian-10-r98
-
-# Tags: 1.37.1-debian-10-r97
-FROM bitnami/mediawiki:1.37.1-debian-10-r97
-
-# Tags: 1.37.1-debian-10-r96
-FROM bitnami/mediawiki:1.37.1-debian-10-r96
-
-# Tags: 1.37.1-debian-10-r95
-FROM bitnami/mediawiki:1.37.1-debian-10-r95
-
-# Tags: 1.37.1-debian-10-r94
-FROM bitnami/mediawiki:1.37.1-debian-10-r94
-
-# Tags: 1.37.1-debian-10-r93
-FROM bitnami/mediawiki:1.37.1-debian-10-r93
-
-# Tags: 1.37.1-debian-10-r92
-FROM bitnami/mediawiki:1.37.1-debian-10-r92
-
-# Tags: 1.37.1-debian-10-r91
-FROM bitnami/mediawiki:1.37.1-debian-10-r91
-
-# Tags: 1.37.1-debian-10-r90
-FROM bitnami/mediawiki:1.37.1-debian-10-r90
-
-# Tags: 1.37.1-debian-10-r89
-FROM bitnami/mediawiki:1.37.1-debian-10-r89
-
-# Tags: 1.37.1-debian-10-r88
-FROM bitnami/mediawiki:1.37.1-debian-10-r88
-
-# Tags: 1.37.1-debian-10-r87
-FROM bitnami/mediawiki:1.37.1-debian-10-r87
-
-# Tags: 1.37.1-debian-10-r86
-FROM bitnami/mediawiki:1.37.1-debian-10-r86
-
-# Tags: 1.37.1-debian-10-r85
-FROM bitnami/mediawiki:1.37.1-debian-10-r85
-
-# Tags: 1.37.1-debian-10-r84
-FROM bitnami/mediawiki:1.37.1-debian-10-r84
-
-# Tags: 1.37.1-debian-10-r83
-FROM bitnami/mediawiki:1.37.1-debian-10-r83
-
-# Tags: 1.37.1-debian-10-r82
-FROM bitnami/mediawiki:1.37.1-debian-10-r82
-
-# Tags: 1.37.1-debian-10-r81
-FROM bitnami/mediawiki:1.37.1-debian-10-r81
-
-# Tags: 1.37.1-debian-10-r80
-FROM bitnami/mediawiki:1.37.1-debian-10-r80
-
-# Tags: 1.37.1-debian-10-r79
-FROM bitnami/mediawiki:1.37.1-debian-10-r79
-
-# Tags: 1.37.1-debian-10-r78
-FROM bitnami/mediawiki:1.37.1-debian-10-r78
-
-# Tags: 1.37.1-debian-10-r77
-FROM bitnami/mediawiki:1.37.1-debian-10-r77
-
-# Tags: 1.37.1-debian-10-r76
-FROM bitnami/mediawiki:1.37.1-debian-10-r76
