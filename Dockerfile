@@ -1,12 +1,21 @@
-# Tags: latest, 1.37.2-debian-10-r28, 1.37.2, 1-debian-10, 1
+# Tags: latest, 1.37.2-debian-10-r31, 1.37.2, 1-debian-10, 1
 FROM bitnami/mediawiki:latest
-FROM bitnami/mediawiki:1.37.2-debian-10-r28
+FROM bitnami/mediawiki:1.37.2-debian-10-r31
 FROM bitnami/mediawiki:1.37.2
 FROM bitnami/mediawiki:1-debian-10
 FROM bitnami/mediawiki:1
 
 # Tags: _
 FROM bitnami/mediawiki:_
+
+# Tags: 1.37.2-debian-10-r30
+FROM bitnami/mediawiki:1.37.2-debian-10-r30
+
+# Tags: 1.37.2-debian-10-r29
+FROM bitnami/mediawiki:1.37.2-debian-10-r29
+
+# Tags: 1.37.2-debian-10-r28
+FROM bitnami/mediawiki:1.37.2-debian-10-r28
 
 # Tags: 1.37.2-debian-10-r27
 FROM bitnami/mediawiki:1.37.2-debian-10-r27
@@ -85,16 +94,3 @@ FROM bitnami/mediawiki:1.37.2-debian-10-r3
 
 # Tags: 1.37.2-debian-10-r2
 FROM bitnami/mediawiki:1.37.2-debian-10-r2
-
-# Tags: 1.37.2-debian-10-r1
-FROM bitnami/mediawiki:1.37.2-debian-10-r1
-
-# Tags: 1.37.2-debian-10-r0
-FROM bitnami/mediawiki:1.37.2-debian-10-r0
-
-# Tags: 1.37.1-debian-10-r100, 1.37.1
-FROM bitnami/mediawiki:1.37.1-debian-10-r100
-FROM bitnami/mediawiki:1.37.1
-
-# Tags: 1.37.1-debian-10-r99
-FROM bitnami/mediawiki:1.37.1-debian-10-r99
